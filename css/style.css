@@ -1,0 +1,22 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.container__categories-1,.container__categories-2,.container__categories-3 {
+    width: 25%;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+a{
+    color: tan;
+    text-decoration: none;
+}
+
+
